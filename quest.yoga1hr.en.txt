@@ -1,21 +1,21 @@
 V.1.0
 
-Complete a 30-minute yoga class. If you have a longer class, mark the required number of times the quest is completed according to the class time.
+Attend a 30-minute yoga class. If you have a longer class, mark how many times you need to complete the quest according to the class time.
 
 _,.-*'^'*-.,_,.-*'^'*-.,_,.-*'^'*-.,_ 
 
-If you don't have the money for a studio class with a trainer, you can pay attention to the Yoga | Down Dog program. 
+If you do not have the money for studio classes with a trainer, you can pay attention to the Yoga | Fluffy Dog program. 
 
-This program:
+This program.
 * Has support for 11 languages 
-* And very decent in quality 
+* Very high quality and very decent in quality 
 * Suitable for both beginners and advanced practitioners
-* Many types of yoga with different intensity of body load
-* Flexible control over the duration of the class: 9-80 min.
+* Many types of yoga with different intensity of load on the body
+* Flexible adjustment of the class duration: 9-80 min.
 * It is possible to work offline (will work without the Internet)
-* There is a statistics management
+* Statistics of classes are kept
 * Very simple interface
-* Ability to choose the type of background music and the volume ratio between the background music and the voice telling you what to do
+* Ability to choose the type of background music and the volume ratio between the background music and the voice that tells you what to do
 
 https://apps.apple.com/ua/app/yoga-down-dog/id983693694?l=uk
 https://play.google.com/store/apps/details?id=com.downdogapp&hl=uk&pli=1
