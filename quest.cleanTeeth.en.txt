@@ -1,32 +1,40 @@
-V.1.0
+V.1.3
 
-CONSISTENCY:
-[before meals].
-* [in case of unpleasant odor] rinse with mouthwash. It is acceptable to use a weak solution of salt and soda in water.
-
+STEPS:
 (after meals)
-* Flossing (preferably with a plastic handle!) [before bed or in the morning after eating].
-* Brushing the outside of the teeth. Sweeping movements from the gums to the tips of the teeth. 40-60~ seconds. 
+1) Flossing (preferably with a plastic handle!) 
+    [in the morning after meals and before bed].
+2) Rinse the mouth with mouthwash after flossing
+     [Flossing can transfer bacteria from one tooth space to another, literally infecting with cavities another healthy space ].
+3) Rinse your toothbrush with warm water. 
+    (This will soften the bristles and wash away the solution from step 8).
+3) Brush the outside of your teeth. Move from the gums to the tips of the teeth. 40-60~ seconds. 
     [The amount of toothpaste is less than a pea].
-* Cleaning the "tops" of the teeth - 30~ seconds
-* Cleaning the inside - 30~ seconds
-* Brushing the tongue - 10-20~ seconds
-* If you have an irrigator, rinse between your teeth.
-* Rinse off the remaining toothpaste with water
+4) Brush the “tops” of the teeth - 30~ seconds
+5) Brush the inside of the teeth - 30~ seconds
+6) Brush the tongue - 10-20~ seconds
+7) Rinse off the remaining toothpaste with water
+8) If you have an irrigator, rinse the spaces between your teeth.
+9) Put the toothbrush in a container filled with the solution: 200 grams of salt + 200 grams of baking soda + 400 grams of water. Water can be added to the container periodically as needed.
+    [This disinfects the toothbrush from bacteria that remain on the bristles after brushing.]
+
 
 _,.-*'^'*-.,_,.-*'^'*-.,_,.-*'^'*-.,_ 
 
-SELECTING A TOOTHBRUSH:
-* You need a medium stiff toothbrush. Unless your doctor has prescribed a different one.
-* Vibrating toothbrushes are not always a good option. Rotating brushes are better - but you need to know how to use them properly.
+BRUSH SELECTION:
+* You need a medium stiff toothbrush. UNLESS OTHERWISE PRESCRIBED BY YOUR DOCTOR!
+* Vibrating brushes are not always a good option. Rotary brushes are better - but you need to know how to use them properly. Ask your doctor how to do this.
 * The larger the bristle area, the better the toothbrush.
-* The toothbrush is held in a cup with plenty of baking soda and water. The bristles are completely submerged. Rinse in running water before use.
-* Brushes are purchased in bulk with a quantity reserve and are replaced as needed as they wear out (thanks to the baking soda and salt solution, they do not need to be replaced every 2 months)
+* Brushes should be purchased in bulk with a supply and replaced as they wear out.
+    [If you use a soda-salt solution, you do not need to replace your brushes every 2 months. If you do not use a solution, replace the brushes every 2 months].
 
 _,.-*'^'*-.,_,.-*'^'*-.,_,.-*'^'*-.,_ 
 
-OTHER:
-* Toothpaste names are not just for marketing purposes. If a toothpaste says "antibacterial", it means that additional bactericidal ingredients are actually added. If a toothpaste says "Restore and Protect", it almost certainly contains enamel-restoring components. And so on.
-* If your teeth feel really bad, you need to drink calcium citrate. To save money, you can buy food grade in chemical stores. Calcium carbonate can leave sand in the kidneys. But if you drink enough water and do not have calcium sand, there should be no problems with calcium carbonate. The amount is about 1000mg per person over 18. 1500mg - for people over 60. The course is 1 month. 
-    [Do not use with vitamin D - you will get hypercalcemia with the specified amount. For use with vitamin D, consult your doctor]
-* The more often you brush your teeth from tartar, the more tartar will build up. So the less you do, the better (within reason). And if you brush your teeth well as directed, you may not even need to.
+ANOTHER:
+* There are special tablets that lighten plaque on your teeth. You can find them in most pharmacies in your city. These tablets will help you learn how to brush your teeth properly.
+* If you use a mouthwash, you should change the mouthwash/manufacturer periodically. Different mouthwashes should have different active ingredients. Changing the active ingredient reduces the likelihood that bacteria will develop resistance to it.
+* Toothpaste names are used for more than just marketing purposes. If a toothpaste is labeled “antibacterial,” it means that additional bactericidal ingredients MAY be added. If a toothpaste is labeled as “Restore and Protect”, it almost certainly contains enamel-restoring ingredients. And so on. But in order to understand for sure whether this toothpaste is called this way for marketing reasons or not, you need to consult a dentist. It is better if you come with a photo of the composition of the toothpastes you are interested in, because the doctor is not obliged to remember the composition of each toothpaste.
+* If you have serious dental problems, ask your dentist to refer you for a vitamin D and calcium test. You may need to drink them. If your doctor has told you to take them, follow his or her advice and do not take vitamin D and calcium at the same time. This can be dangerous. Taking vitamin D will almost certainly normalize your calcium levels. However, if you are prescribed calcium supplements, choose calcium citrate rather than calcium carbonate (it is less likely to cause kidney stones). Be sure to follow your doctor's recommendations.
+* The more often you brush your teeth to remove tartar, the more tartar accumulates. Therefore, the less often you do it, the better (within reason). And if you brush your teeth as directed, you may not even need to.
+* One of the ways toothpaste manufacturers make money off of you is by making the neck of the tube too wide. To avoid falling for this trick, instead of tearing off the foil, use a needle to poke a hole of the right size. 
+* Do not repeat the use of toothpaste according to the advertisement. Talk to your doctor - toothpaste should be applied in an amount about the size of a pea. A larger amount negatively affects the quality of cleaning and also wastes your money.
